@@ -10,3 +10,5 @@ cout<<a;
 cout<<b;
 Printf("addition=")
 }
+hello
+this cummins college
